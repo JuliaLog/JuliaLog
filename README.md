@@ -19,14 +19,14 @@
 
 ---
 SKILLS:
-· Programming languages: Javascript.
-· Technologies: HTML, CSS, Sass, Less.
-· Frameworks and libraries JS: React, jQuery.
-· Development tools: Normalize, Bootstrap. 
-· Мethodology: Agile, Scrum.
-· Version control systems: Git.
-· Repositories: GitHub.
-· IDE: Visual Studio Code.
+· Programming languages: Javascript.<br>
+· Technologies: HTML, CSS, Sass, Less.<br>
+· Frameworks and libraries JS: React, jQuery.<br>
+· Development tools: Normalize, Bootstrap.<br> 
+· Мethodology: Agile, Scrum.<br>
+· Version control systems: Git.<br>
+· Repositories: GitHub.<br>
+· IDE: Visual Studio Code.<br>
 · Building tools: Galp, Webpack.
 
 

@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/72932859/120460980-76077e00-c34e-11eb-8a4d-82ca0707fd0f.png" alt="visual-studio-code Logo" width="40" height="40">
 
 ---
-<b>SKILLS:<b><br>
+<b>SKILLS:</b><br>
 · Programming languages: Javascript.<br>
 · Technologies: HTML, CSS, Sass, Less.<br>
 · Frameworks and libraries JS: React, jQuery.<br>

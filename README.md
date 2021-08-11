@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Julia Loginova!
 
-👩‍💻 <strong>Frontend Developer<strong>
+👩‍💻 <strong style="font-size: 16px">Frontend Developer<strong>
 
 ---
 

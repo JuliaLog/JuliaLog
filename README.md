@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Julia Loginova!
 
-👩‍💻 <strong style="font-size: 16px">Frontend Developer<strong>
+<br>
+👩‍💻 <strong style="font-size: 18px">Frontend Developer</strong>
 
 ---
 
@@ -18,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/72932859/120460980-76077e00-c34e-11eb-8a4d-82ca0707fd0f.png" alt="visual-studio-code Logo" width="40" height="40">
 
 ---
-<b>SKILLS:</b><br>
+<strong>SKILLS:</strong><br>
 · Programming languages: Javascript.<br>
 · Technologies: HTML, CSS, Sass, Less.<br>
 · Frameworks and libraries JS: React, jQuery.<br>

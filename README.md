@@ -14,7 +14,7 @@
 <strong>SKILLS:</strong><br>
 · Programming languages: Javascript.<br>
 · Technologies: HTML, CSS, Sass, Less.<br>
-· Frameworks and libraries JS: React, jQuery.<br>
+· Frameworks and libraries JS: React, Redux, jQuery.<br>
 · Development tools: Normalize, Bootstrap.<br> 
 · Мethodology: Agile, Scrum.<br>
 · Version control systems: Git.<br>

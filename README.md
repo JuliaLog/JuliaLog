@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> <h1 font-size = "28px">Hi there, I am Julia Loginova!</h1>
+  <h1 font-size = "24px">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!</h1>
 </div>
 <br>
 <div align="center">
-  <h2 font-size = "22px">👩‍💻 Frontend Developer</h2>
+  <h2 font-size = "20px">👩‍💻 Frontend Developer</h2>
 </div>
 <br>
 
@@ -23,7 +23,7 @@
 
 ---
 
-🧰 Languages  and  Tools
+### 🧰 Languages  and  Tools:
 <br>
 <div>
   <img src="https://user-images.githubusercontent.com/72932859/120463112-6d17ac00-c350-11eb-802b-d4b80069be9d.png" alt="HTML5 Logo" width="50" height="50">&nbsp; 
@@ -45,6 +45,7 @@
 ---
 
 ### About Me :
+<br>
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 

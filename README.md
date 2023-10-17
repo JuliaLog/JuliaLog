@@ -1,5 +1,5 @@
 <div align="center">
-  !!(blue)##Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!!!
+  ###Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!
 </div>
 <br>
 <div align="center">

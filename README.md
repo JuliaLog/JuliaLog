@@ -24,7 +24,6 @@
 ---
 
 ### 🧰 Languages  and  Tools:
-<br>
 <div>
   <img src="https://user-images.githubusercontent.com/72932859/120463112-6d17ac00-c350-11eb-802b-d4b80069be9d.png" alt="HTML5 Logo" width="50" height="50">&nbsp; 
   <img src="https://user-images.githubusercontent.com/72932859/127735484-3e2f1b6b-2321-4eb1-9e19-91620e7716ba.png" alt="CSS Logo">&nbsp;
@@ -46,7 +45,8 @@
 
 ### About Me :
 <br>
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :telescope: I’m working as a Frontend Developer and contributing to frontend for building web applications.
+- :zap: In my free time, I read tech articles.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLog&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

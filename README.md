@@ -44,7 +44,7 @@
 ---
 
 ### About Me :
-<br>
+
 - :telescope: I’m working as a Frontend Developer and contributing to frontend for building web applications.
 
 - :zap: In my free time, I read tech articles.

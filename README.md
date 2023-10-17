@@ -44,14 +44,8 @@
 
 ---
 
-<strong>SKILLS:</strong><br>
-· Programming languages: Javascript.<br>
-· Technologies: HTML, CSS, Sass, Less.<br>
-· Frameworks and libraries JS: jQuery, React, Redux, Typescript.<br>
-· Development tools: Normalize, Bootstrap.<br> 
-· Мethodology: Agile, Scrum.<br>
-· Version control systems: Git.<br>
-· Repositories: GitHub.<br>
-· Building tools: Galp, Webpack.
+### About Me :
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLog&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

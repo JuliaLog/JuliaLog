@@ -1,5 +1,5 @@
 <div align="center">
-  <p color="blue" font-size = "35px">Hi there</p><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!
+  <p color="blue" font-size = "35px">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!</p>
 </div>
 <br>
 <div align="center">
@@ -9,9 +9,8 @@
 <br>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="120"/>
 </div>
-<br>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/julia-loginova-frontend">

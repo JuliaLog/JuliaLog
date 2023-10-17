@@ -1,9 +1,9 @@
 <div align="center">
-  <h1 font-size = "32px">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!</h1>
+  <h1 font-size = "30px">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!</h1>
 </div>
 <br>
 <div align="center">
-👩‍💻 <h2 font-size = "24px">Frontend Developer</h2>
+  <h2 font-size = "24px">👩‍💻 Frontend Developer</h2>
 </div>
 <br>
 

@@ -1,9 +1,9 @@
 <div align="center">
-  ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!
+  <p color="blue" font-size = "35px">Hi there</p><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!
 </div>
 <br>
-<div>
-👩‍💻 <strong font-size = "24px" align="center">Frontend Developer</strong>
+<div align="center">
+👩‍💻 <strong font-size = "24px">Frontend Developer</strong>
 </div>
 <br>
 <br>

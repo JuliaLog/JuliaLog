@@ -1,5 +1,5 @@
 <div align="center">
-  <p text-color="blue" font-size = "35px">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!</p>
+  <p color="#0000ff" font-size = "45px">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!</p>
 </div>
 <br>
 <div align="center">

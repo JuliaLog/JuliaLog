@@ -1,13 +1,17 @@
 <div align="center">
-  ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Julia Loginova!
-  <br>
+  ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!
+</div>
+<br>
+<div>
 👩‍💻 <strong font-size = "24px" align="center">Frontend Developer</strong>
 </div>
-
+<br>
+<br>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="100"/>
 </div>
+<br>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/julia-loginova-frontend">

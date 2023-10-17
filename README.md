@@ -1,11 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Julia Loginova!
 👩‍💻 <strong font-size = "24px" align="center">Frontend Developer</strong>
 
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="100"/>
-</div>
+
 ![image](https://user-images.githubusercontent.com/72932859/129068498-8c56eaa5-b7ca-46be-878d-04b7d6bff78a.png) 
 ![image](https://user-images.githubusercontent.com/72932859/129068752-fe1f5115-52e5-45c8-8c0d-f48bfc933c1d.png)
+</div>
 <br>
 
 ---

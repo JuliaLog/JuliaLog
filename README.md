@@ -1,5 +1,4 @@
 <div align="center">
-  ## Hi there
   <strong font-size = "36px">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!</strong>
 </div>
 <br>
@@ -55,4 +54,4 @@
 · Repositories: GitHub.<br>
 · Building tools: Galp, Webpack.
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLog&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

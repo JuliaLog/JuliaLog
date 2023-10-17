@@ -26,9 +26,9 @@
 🧰 Languages  and  Tools
 <br>
 <div>
-  <img src="https://user-images.githubusercontent.com/72932859/120463112-6d17ac00-c350-11eb-802b-d4b80069be9d.png" alt="HTML5 Logo" width="50" height="50">  
-  <img src="https://user-images.githubusercontent.com/72932859/127735484-3e2f1b6b-2321-4eb1-9e19-91620e7716ba.png" alt="CSS Logo">  
-  <img src="https://user-images.githubusercontent.com/72932859/120462763-14481380-c350-11eb-967a-3530087a6711.png" alt="JavaScript Logo" width="50" height="50">  
+  <img src="https://user-images.githubusercontent.com/72932859/120463112-6d17ac00-c350-11eb-802b-d4b80069be9d.png" alt="HTML5 Logo" width="50" height="50">&nbsp; 
+  <img src="https://user-images.githubusercontent.com/72932859/127735484-3e2f1b6b-2321-4eb1-9e19-91620e7716ba.png" alt="CSS Logo">&nbsp;
+  <img src="https://user-images.githubusercontent.com/72932859/120462763-14481380-c350-11eb-967a-3530087a6711.png" alt="JavaScript Logo" width="50" height="50">&nbsp;
   <img src="https://user-images.githubusercontent.com/72932859/120462608-f084cd80-c34f-11eb-9961-a98601648fd5.png" alt="React Logo" width="50" height="50">  
   <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt="Redux Logo" width="40" height="40">
   <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt="Typescript Logo" width="40" height="40">

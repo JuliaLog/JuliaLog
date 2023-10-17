@@ -1,5 +1,6 @@
 <div align="center">
-  <strong font-size = "34px">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!</strong>
+  ## Hi there
+  <strong font-size = "36px">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Julia Loginova!</strong>
 </div>
 <br>
 <div align="center">
@@ -52,7 +53,6 @@
 · Мethodology: Agile, Scrum.<br>
 · Version control systems: Git.<br>
 · Repositories: GitHub.<br>
-· IDE: Visual Studio Code.<br>
 · Building tools: Galp, Webpack.
 
 

@@ -30,8 +30,6 @@
   <img src="https://user-images.githubusercontent.com/72932859/127735484-3e2f1b6b-2321-4eb1-9e19-91620e7716ba.png" alt="CSS Logo">  
   <img src="https://user-images.githubusercontent.com/72932859/120462763-14481380-c350-11eb-967a-3530087a6711.png" alt="JavaScript Logo" width="50" height="50">  
   <img src="https://user-images.githubusercontent.com/72932859/120462608-f084cd80-c34f-11eb-9961-a98601648fd5.png" alt="React Logo" width="50" height="50">  
-  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' alt="Nodejs Logo" width="80" height="80">
-  <img src='https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg' alt="Nuxtjs Logo" width="80" height="80">
   <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt="Redux Logo" width="40" height="40">
   <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt="Typescript Logo" width="40" height="40">
   <img src="https://user-images.githubusercontent.com/72932859/120462333-ae5b8c00-c34f-11eb-93b4-1899a5284294.png" alt="Sass Logo" width="50" height="50">  
@@ -40,6 +38,8 @@
   <img src="https://user-images.githubusercontent.com/72932859/120461611-fe861e80-c34e-11eb-8595-b0c9a9a4f6d1.png" alt="Gulp Logo" width="30" height="50">  
   <img src="https://user-images.githubusercontent.com/72932859/120460980-76077e00-c34e-11eb-8a4d-82ca0707fd0f.png" alt="visual-studio-code Logo" width="40" height="40">
   <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg' alt="Bootstrap Logo" width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' alt="Nodejs Logo" width="80" height="80">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg' alt="Nuxtjs Logo" width="80" height="80">
 </div>
 
 ---

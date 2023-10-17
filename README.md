@@ -6,7 +6,6 @@
 👩‍💻 <strong font-size = "24px">Frontend Developer</strong>
 </div>
 <br>
-<br>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="120"/>
@@ -31,8 +30,8 @@
   <img src="https://user-images.githubusercontent.com/72932859/127735484-3e2f1b6b-2321-4eb1-9e19-91620e7716ba.png" alt="CSS Logo">  
   <img src="https://user-images.githubusercontent.com/72932859/120462763-14481380-c350-11eb-967a-3530087a6711.png" alt="JavaScript Logo" width="50" height="50">  
   <img src="https://user-images.githubusercontent.com/72932859/120462608-f084cd80-c34f-11eb-9961-a98601648fd5.png" alt="React Logo" width="50" height="50">  
-  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' alt="Nodejs Logo" width="40" height="40">
-  <img src='https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg' alt="Nuxtjs Logo" width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' alt="Nodejs Logo" width="80" height="80">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg' alt="Nuxtjs Logo" width="80" height="80">
   <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt="Redux Logo" width="40" height="40">
   <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt="Typescript Logo" width="40" height="40">
   <img src="https://user-images.githubusercontent.com/72932859/120462333-ae5b8c00-c34f-11eb-93b4-1899a5284294.png" alt="Sass Logo" width="50" height="50">  

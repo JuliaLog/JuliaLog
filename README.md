@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="100"/>
 </div>
 <div align="center">
-  <a href="">
+  <a href="https://www.linkedin.com/in/julia-loginova-frontend">
     <img src="https://user-images.githubusercontent.com/72932859/129068498-8c56eaa5-b7ca-46be-878d-04b7d6bff78a.png">
   </a>
    <a href="https://t.me/Julia_Log">

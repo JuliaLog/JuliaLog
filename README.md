@@ -34,10 +34,10 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt="Typescript Logo" width="40" height="40">
   <img src="https://user-images.githubusercontent.com/72932859/120462333-ae5b8c00-c34f-11eb-93b4-1899a5284294.png" alt="Sass Logo" width="50" height="50">  
   <img src="https://user-images.githubusercontent.com/72932859/120462191-8a984600-c34f-11eb-9947-4b2d26b33b3a.png" alt="npm Logo" width="50" height="30">  
-  <img src="https://user-images.githubusercontent.com/72932859/120461814-30978080-c34f-11eb-883c-7c7479059811.png" alt="Git Logo" width="70" height="30">  
-  <img src="https://user-images.githubusercontent.com/72932859/120461611-fe861e80-c34e-11eb-8595-b0c9a9a4f6d1.png" alt="Gulp Logo" width="30" height="50">  
   <img src="https://user-images.githubusercontent.com/72932859/120460980-76077e00-c34e-11eb-8a4d-82ca0707fd0f.png" alt="visual-studio-code Logo" width="40" height="40">
   <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg' alt="Bootstrap Logo" width="40" height="40">
+  <img src="https://user-images.githubusercontent.com/72932859/120461814-30978080-c34f-11eb-883c-7c7479059811.png" alt="Git Logo" width="70" height="30">  
+  <img src="https://user-images.githubusercontent.com/72932859/120461611-fe861e80-c34e-11eb-8595-b0c9a9a4f6d1.png" alt="Gulp Logo" width="30" height="50">  
   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' alt="Nodejs Logo" width="80" height="80">
   <img src='https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg' alt="Nuxtjs Logo" width="80" height="80">
 </div>
@@ -47,7 +47,7 @@
 <strong>SKILLS:</strong><br>
 · Programming languages: Javascript.<br>
 · Technologies: HTML, CSS, Sass, Less.<br>
-· Frameworks and libraries JS: React, Redux, jQuery.<br>
+· Frameworks and libraries JS: jQuery, React, Redux, Typescript.<br>
 · Development tools: Normalize, Bootstrap.<br> 
 · Мethodology: Agile, Scrum.<br>
 · Version control systems: Git.<br>

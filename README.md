@@ -50,4 +50,4 @@
 - :zap: In my free time, I read tech articles.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLog&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLog&layout=compact&theme=vision-friendly-dark)](https://github.com/JuliaLog/github-readme-stats)

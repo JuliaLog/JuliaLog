@@ -37,7 +37,7 @@
   <img src="https://user-images.githubusercontent.com/72932859/120461611-fe861e80-c34e-11eb-8595-b0c9a9a4f6d1.png" alt="Gulp Logo" width="30" height="50">&nbsp;
   <img src="https://user-images.githubusercontent.com/72932859/120462191-8a984600-c34f-11eb-9947-4b2d26b33b3a.png" alt="npm Logo" width="50" height="30">&nbsp;
   <img src="https://user-images.githubusercontent.com/72932859/120461814-30978080-c34f-11eb-883c-7c7479059811.png" alt="Git Logo" width="70" height="30">&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' alt="Nodejs Logo" width="80" height="80" padding="10">&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' alt="Nodejs Logo" width="80" height="80" padding="-10">&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg' alt="Nextjs Logo" width="60" height="60">&nbsp;
 </div>
 

@@ -52,4 +52,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLog&layout=compact&theme=vision-friendly-dark&langs_count=5)](https://github.com/JuliaLog?tab=repositories)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/JuliaLog/bbfce31e0217a3689c8d961a356cb10d/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLog)](https://github.com/JuliaLog/github-readme-stats)

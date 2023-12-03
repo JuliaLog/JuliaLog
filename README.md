@@ -55,3 +55,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLog&layout=donut-vertical&theme=vision-friendly-dark&langs_count=8)](https://github.com/JuliaLog?tab=repositories)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLog&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)

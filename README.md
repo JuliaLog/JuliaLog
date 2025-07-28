@@ -45,7 +45,7 @@
 
 ### About Me :
 
-- :telescope: I’m working as a QA and contributing to QA for building applications.
+- :telescope: I’m working as a QA and contributing to QA for building applications
 
 - :zap: 
 

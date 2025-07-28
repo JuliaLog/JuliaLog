@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-  <h2 font-size = "20px">👩‍💻 Frontend Developer</h2>
+  <h2 font-size = "20px">👩‍💻 QA</h2>
 </div>
 <br>
 

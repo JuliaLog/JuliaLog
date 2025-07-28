@@ -45,9 +45,9 @@
 
 ### About Me :
 
-- :telescope: I’m working as a Frontend Developer and contributing to frontend for building web applications.
+- :telescope: I’m working as a QA and contributing to QA for building applications.
 
-- :zap: In my free time, I read tech articles.
+- :zap: 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaLog&layout=compact&theme=vision-friendly-dark&langs_count=5)](https://github.com/JuliaLog?tab=repositories)

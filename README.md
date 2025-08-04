@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/julia-loginova-frontend">
     <img src="https://user-images.githubusercontent.com/72932859/129068498-8c56eaa5-b7ca-46be-878d-04b7d6bff78a.png">
   </a>
-   <a href="https://t.me/Julia_Log">
+   <a href="https://t.me/Qa_jul">
     <img src="https://user-images.githubusercontent.com/72932859/129068752-fe1f5115-52e5-45c8-8c0d-f48bfc933c1d.png">
   </a>
 </div>
